@@ -1,7 +1,6 @@
 <img src="/banner.jpg" alt="banner" align="center" />
 
 ### Hi there 👋 
-my name is Kareem Kamal
 
 ---
 
