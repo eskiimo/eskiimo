@@ -14,15 +14,15 @@
  
   <p> mostly front-end also</p>
  <p>  
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square&logo=appveyor" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square&logo=appveyor" />
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square&logo=appveyor" />
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logo=appveyor" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logo=appveyor" />
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logo=appveyor" />
   </p>
   <p> but I'm still working on my back .. Haha! </p>
   <p>
-    <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square&logo=appveyor" />
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=flat-square&logo=appveyor" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-47A248?logo=mongodb&logoColor=orange&style=flat-square&logo=appveyor" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&logo=appveyor" />
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge&logo=appveyor" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-47A248?logo=mongodb&logoColor=orange&style=for-the-badge&logo=appveyor" />
   </p>
 </p>
 
