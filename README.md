@@ -1,13 +1,15 @@
 <img src="/banner.jpg" alt="banner" align="center" />
-### Hi there 👋, I'm setting up a cool Github page.
+
+### Hi there 👋 
+my name is Kareem Kamal
 
 ---
 
-### What do I do?
-
-<p> I do  <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?logo=Flutter&logoColor=white&style=plastic" />  FrontEnd sometimes 
+<p> I do  <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?logo=Flutter&logoColor=white&style=plastic" />  front-end sometimes 
  
 </p>
+
+---
 
 ###  but mainly I'm more into web-dev
 <p>
@@ -57,8 +59,8 @@
   />
 </a>
 
+---
+
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=13eskiimo&theme=nightowl " />
 
-  
-Kareem Kamal
