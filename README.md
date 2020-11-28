@@ -9,7 +9,7 @@ my name is Kareem Kamal
  
 </p>
 
----
+
 
 ###  but mainly I'm more into web-dev
 <p>
@@ -62,5 +62,5 @@ my name is Kareem Kamal
 ---
 
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=13eskiimo&theme=nightowl " />
+<img src="https://github-readme-stats.vercel.app/api?username=13eskiimo&count_private=true&show_icons=true&theme=nightowl " />
 
