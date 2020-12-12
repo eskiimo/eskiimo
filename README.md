@@ -4,9 +4,9 @@
 
 ---
 
-<p> I'm a  <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?logo=Flutter&logoColor=white&style=plastic" />  front-end  
+<h2> I'm a  <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?logo=Flutter&logoColor=white&style=plastic" />  front-end developer
  
-</p>
+</h2>
 
 
 
@@ -24,7 +24,7 @@
   <p> but I'm still working on my back .. 😄 Haha! </p>
   <p>
     <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=orange&style=for-the-badge" />
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" />
     <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   </p>
 </p>
