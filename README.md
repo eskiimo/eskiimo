@@ -1,5 +1,5 @@
-<img src="/banner.jpg" alt="banner" align="center" />
-
+<!-- <img src="/banner.jpg" alt="banner" align="center" />
+ -->
 ### Hi there 👋 
 
 ---
@@ -61,12 +61,12 @@
 ---
 
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=13eskiimo&count_private=true&show_icons=true&theme=nightowl " />
+<img src="https://github-readme-stats.vercel.app/api?username=eskiimo&count_private=true&show_icons=true&theme=nightowl " />
 
 
 ### Most languages
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=13eskiimo"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskiimo"
 />
 
