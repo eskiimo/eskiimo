@@ -61,7 +61,7 @@
 ---
 
 ### Github Stats
-[![Eskimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eskiimo)](https://github.com/eskiimo/github-readme-stats)
+[![Eskimo's GitHub stats](github-readme-stats-theta-two-67.vercel.app/api?username=eskiimo)](https://github.com/eskiimo/github-readme-stats)
 
 
 ### Most languages
