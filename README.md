@@ -18,6 +18,7 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
     <img alt="React"     src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+    <img alt="nextjs" src="https://img.shields.io/badge/next-1E1E1E?logo=next&logoColor=white&style=for-the-badge"/>
  
   </p>
   <p> With good experience working with Back-End Development with  </p>
