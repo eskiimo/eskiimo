@@ -61,7 +61,7 @@
 ---
 
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=eskiimo&count_private=true&show_icons=true&theme=nightowl " />
+[![Eskimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eskiimo)](https://github.com/eskiimo/github-readme-stats)
 
 
 ### Most languages
