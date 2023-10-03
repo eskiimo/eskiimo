@@ -19,8 +19,9 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/e457rmulj7](https://flowcv.com/resume/e457rmulj7)
 
-### Blogs posts
+### Blogs posts 📕 &nbsp; 
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
