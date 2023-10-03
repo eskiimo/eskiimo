@@ -21,7 +21,7 @@
 
 ### Blogs posts 📕 &nbsp; 
 <!-- BLOG-POST-LIST:START -->
-
+- [Using HTTPS with Callbacks &lpar;Non-Promise Approach&rpar;:](https://dev.to/eskiimo/using-https-with-callbacks-non-promise-approach-5846)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
