@@ -19,6 +19,10 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/e457rmulj7](https://flowcv.com/resume/e457rmulj7)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/eskiimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eskiimo" height="30" width="40" /></a>
@@ -35,5 +39,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eskiimo&show_icons=true&locale=en&layout=compact" alt="eskiimo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eskiimo&show_icons=true&locale=en" alt="eskiimo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eskiimo&" alt="eskiimo" /></p>
